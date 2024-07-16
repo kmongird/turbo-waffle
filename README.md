@@ -20,3 +20,5 @@ This is some new text added by Kendall to the README
 add text
 
 This is a change..
+
+This is another change...
